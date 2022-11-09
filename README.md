@@ -6,5 +6,5 @@ Token ERC-721 desarrollado en el bootcamp de programación en solidity de [Web3M
   - Brian Carmaran
   - Merenda Luciano
 
-[Contrato en el Blockexplorer](
+[Contrato en el Block Explorer de Metis](
 https://goerli.explorer.metisdevops.link/address/0xc081F302ff2ac97C7aD256f96C853905d4ad212A/transactions)
